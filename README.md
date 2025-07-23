@@ -15,5 +15,3 @@ Goal of this application is to familarize and learn:
 * for loops
 * Math objects
 * return statements
-
-# Live Preview
